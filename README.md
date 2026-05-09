@@ -31,8 +31,22 @@ O projeto foi construído inteiramente em Python, utilizando um ecossistema de b
 
 ## 🚀 Como Executar
 
-Siga os passos abaixo para rodar o simulador no seu próprio computador:
+Siga os passos abaixo para configurar o ambiente e rodar o simulador no seu computador:
 
-**1. Instalar as dependências** Certifique-se de ter o Python instalado. Abra o terminal do seu computador e instale as bibliotecas necessárias com o comando:
+### 1. Preparar o ambiente
+Certifique-se de ter o **Python 3.7+** instalado. É recomendável criar um ambiente virtual, mas você pode prosseguir diretamente no terminal.
+
+### 2. Instalar as dependências via `requirements.txt`
+Em vez de instalar cada biblioteca individualmente, utilize o arquivo de requisitos para garantir que todas as versões corretas sejam instaladas de uma só vez. No terminal, dentro da pasta do projeto, execute:
 ```bash
-pip install streamlit numpy pandas matplotlib
+pip install -r requirements.txt
+```
+
+### 3. Executar a aplicação
+Com as dependências instaladas, inicie o servidor do Streamlit rodando o comando
+```bash
+stream lit run app.py
+```
+
+### 4. Acessar no navegador 
+Após o cmando acima, o terminal exibirá um endereço local (geralmente um localhost:8501). O navegador deve abrir automaticamente, mas caso não abra, basta copiar e colar esse endereço na sua barra de navegação.
