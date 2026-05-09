@@ -2,6 +2,11 @@
 
 Este documento reúne os principais prompts utilizados no desenvolvimento deste projeto com auxílio de Inteligência Artificial.
 
+## 🤖 IA Utilizada
+- Google Gemini AI
+- Modelo utilizado: 3.1 pro
+
+  
 ## 📌 Objetivo
 
 Garantir transparência, reprodutibilidade e documentação do processo de desenvolvimento assistido por IA.
