@@ -13,7 +13,7 @@ O documento detalha:
 * A lógica por trás da camada clínica (hospitalizações e mortalidade).
 * A interpretação detalhada dos gráficos e limitações do modelo.
 
-👉 **[Leia o artigo científico completo aqui](https://docs.google.com/document/d/1tb4FNjxOTjalmlIiRyjYBKaDPT8bSVxsvByDldeT9Wk/edit?usp=sharing)**
+👉 **[Leia o artigo científico completo aqui (Em pdf ou google docs)](https://drive.google.com/drive/folders/1mLMwXQdUKYbA2XB4__pqU_3aO8gDvcut?usp=drive_link)**
 
 ## ✨ Funcionalidades
 * **Simulação do Modelo SIR:** Cálculo passo a passo da transição entre indivíduos Suscetíveis, Infectados e Resolvidos.
